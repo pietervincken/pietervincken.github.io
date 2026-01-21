@@ -1,0 +1,40 @@
+baseURL: "/"
+title: Pieter's Blog
+paginate.pagerSize: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  ShowToc: true
+  ShowReadingTime: true
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  # env: dev # to enable google analytics, opengraph, twitter-cards and schema.
+  # title: ExampleSite
+    # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Pieter's profile
+    subtitle: "Enabling Unicorn"
+    # imageUrl: "<img location>"
+    # imageWidth: 120
+    # imageHeight: 120
+    # imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/pietervincken"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/pieter-vincken/"
+
+module:
+  imports:
+  - path: github.com/adityatelange/hugo-PaperMod
