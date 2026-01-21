@@ -267,7 +267,7 @@ It tries to allow for flexibility, especially w.r.t. the interactions with other
 If you're part of a Cloud Center of Excellence or are part of a platform team please consider the following tips in order of importance if you want to improve your Infrastructure as Code usage in your organization: 
 
 - Ask your workload teams what problems you could solve for them.
-- Automate your IaC rollouts. This includes generating documentation, automated versioning ,and security and policy testing. 
+- Automate your IaC rollouts. This includes generating documentation, automated versioning, and security and policy testing. 
 - Offer an IaC as a service to your workload teams. Allow them to provision their own infrastrucure.
 - Offer versioned modules for common scenarios in your organization. Make them compliant by design.
 - Implement automated testing across both your module and orchestration repositories.
