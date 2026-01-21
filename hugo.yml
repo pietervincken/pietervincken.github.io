@@ -34,7 +34,3 @@ params:
       url: "https://github.com/pietervincken"
     - name: linkedin
       url: "https://www.linkedin.com/in/pieter-vincken/"
-
-module:
-  imports:
-  - path: github.com/adityatelange/hugo-PaperMod
