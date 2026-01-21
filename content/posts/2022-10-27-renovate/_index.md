@@ -2,7 +2,7 @@
 authors: ["Pieter Vincken"]
 title: "Keeping up with dependencies like a boss"
 description: ""
-date: 2022-10-09T09:00:00+01:00
+date: 2022-10-27T09:00:00+01:00
 slug: ""
 tags: ["cloud", "automation", "cicd"]
 categories: ["Cloud"]

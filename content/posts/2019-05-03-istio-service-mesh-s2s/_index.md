@@ -2,7 +2,7 @@
 authors: ["Pieter Vincken"]
 title: "Istio Service Mesh: service to service communication"
 description: ""
-date: 2019-04-14T09:00:00+01:00
+date: 2019-05-03T09:00:00+01:00
 slug: ""
 tags: ["kubernetes", "networking", "microservices"]
 categories: ["Cloud"]

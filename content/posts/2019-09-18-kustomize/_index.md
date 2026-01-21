@@ -2,7 +2,7 @@
 authors: ["Pieter Vincken"]
 title: "Kustomize: Kubernetes configuration management, the easy way"
 description: ""
-date: 2020-05-30T09:00:00+01:00
+date: 2019-09-18T09:00:00+01:00
 slug: ""
 tags: ["kubernetes", "tools"]
 categories: ["Cloud"]

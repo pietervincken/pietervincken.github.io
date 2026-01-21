@@ -2,7 +2,7 @@
 authors: ["Pieter Vincken"]
 title: "Testing with production data made easy"
 description: ""
-date: 2021-11-01T09:00:00+01:00
+date: 2022-02-14T09:00:00+01:00
 slug: ""
 tags: ["cloud", "automation", "testing"]
 categories: ["Cloud"]

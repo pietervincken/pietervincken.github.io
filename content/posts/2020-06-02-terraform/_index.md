@@ -2,7 +2,7 @@
 authors: ["Pieter Vincken", "Vincent van Dam"]
 title: "From 6 weeks to 90 minutes: let Terraform do your work"
 description: ""
-date: 2020-05-30T09:00:00+01:00
+date: 2020-06-02T09:00:00+01:00
 slug: ""
 tags: ["terraform", "iac", "cloud"]
 categories: ["Cloud"]

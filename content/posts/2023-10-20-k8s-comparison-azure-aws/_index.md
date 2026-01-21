@@ -2,7 +2,7 @@
 authors: ["Pieter Vincken"]
 title: "Are all managed Kubernetes clusters created equally?"
 description: ""
-date: 2023-10-06T09:00:00+01:00
+date: 2023-10-20T09:00:00+01:00
 slug: ""
 tags: ["cloud", "automation", "cicd", "terraform", "iac", "azure", "aws"]
 categories: ["Cloud"]
