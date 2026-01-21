@@ -2,7 +2,6 @@
 authors: ["Pieter Vincken"]
 title: "Kubectl 101 to level 9000"
 description: ""
-draft: true
 date: 2025-04-18T09:00:00+01:00
 slug: ""
 tags: ["cloud", "tools", "cli", "cloud-native", "kubernetes"]
