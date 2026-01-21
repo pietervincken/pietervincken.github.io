@@ -11,7 +11,7 @@ cover:
     image: images/cover.png
 ---
 
-> Quote: Everyting worth doing twice is worth automating. 
+> Quote: Everything worth doing twice is worth automating. 
 
 ## Problem 
 
