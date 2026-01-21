@@ -40,3 +40,7 @@ temp/
 
 .vscode
 .infracost
+
+public
+resources
+.hugo_build.lock

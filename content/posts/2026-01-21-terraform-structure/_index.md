@@ -2,7 +2,7 @@
 authors: ["Pieter Vincken"]
 title: "How to structure infrastructure as code?"
 description: ""
-date: 2026-02-06T09:00:00+01:00
+date: 2026-01-21T09:00:00+01:00
 slug: ""
 tags: ["cloud", "iac"]
 categories: ["Cloud"]
